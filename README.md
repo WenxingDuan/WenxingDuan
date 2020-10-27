@@ -2,7 +2,7 @@
 ----------
 --施工中--
 ----------
-<img loading="lazy" src="https://raw.githubusercontent.com/WenxingDuan/WenxingDuan/main/11111.png" alt="Smiley face">
+<img loading="lazy" src="http://wx2.sinaimg.cn/large/994b6f2egy1g0wivcu4bnj20tz0tvgoq.jpg" alt="Smiley face" width="200" height="200">
 
 <!--
 **WenxingDuan/WenxingDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
